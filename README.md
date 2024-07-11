@@ -1,4 +1,4 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+# ETL Realtime Data Streaming | Data Engineering Project
 
 ## Table of Contents
 - [Introduction](#introduction)
